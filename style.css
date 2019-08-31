@@ -1,0 +1,56 @@
+ul {
+  list-style: none;
+}
+
+#minimenu {
+  width: 100%;
+  padding-top: 10px;
+  box-shadow: 0px 3px 5px rgb(173, 178, 209);
+  background-color: rgb(9, 38, 94);
+  font-size: 12px;
+  position: relative;
+}
+
+#minimenu a {
+  color: #a9a6b4;
+  text-decoration: none;
+  padding: 0px 5px;
+}
+
+#minimenu a:hover {
+  color: white;
+}
+
+.datetime {
+  font-size: 12px;
+  display: block;
+  float: left;
+}
+
+.datetime ul li {
+  display: inline-block;
+}
+
+.contact {
+  font-size: 12px;
+  display: block;
+  float: right;
+}
+
+.contact ul li {
+  display: inline-block;
+}
+
+#mainmenu {
+  padding-bottom: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 5px gray;
+}
+
+.logo {
+  height: 100px;
+}
+
+.logo img {
+  height: 100px;
+}
